@@ -31,12 +31,19 @@
 <br>
 
 <strong>System Outputs</strong>
+<p>Country: Netherlands, Purpose of Trip: Leisure</p>
 <table><tr>
 <td> 
   <p align="center" style="padding: 10px">
     <img alt="Forwarding" src="/images/Output1.jpg" width="900">
     <br>
   </p> 
+  
+</td>
+</tr></table>
+<p>Country: Italy, Purpose of Trip: Business</p>
+<table><tr>
+<td> 
   <p align="center" style="padding: 10px">
     <img alt="Forwarding" src="/images/Output2.jpg" width="850">
     <br>
