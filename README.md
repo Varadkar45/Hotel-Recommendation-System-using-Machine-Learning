@@ -16,7 +16,7 @@
 <br>
 
 <strong>Technique Used</strong>
-<p>Applied Cosine Similarity to identify similar document in text analytics</p>
+<p>Applied <b>Cosine Similarity</b> to identify similar document in text analytics</p>
 <br>
 
 <strong>EXISTING SYSTEM</strong>
