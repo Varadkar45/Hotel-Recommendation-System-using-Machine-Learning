@@ -1,4 +1,4 @@
-<h1 text-align="center">Hotel Recommendation System</h1> 
+<h1>Hotel Recommendation System</h1> 
 
 <br>
 
@@ -14,7 +14,7 @@
 <strong>Features of Dataset</strong>
 <p>Hotel_Name, Hotel_Address, Average_Score, Countries, Tags</p>
 <br>
-
+<strong>Technique Used</strong>
 <strong>Applied Cosine Similarity to identify similar document in text analytics</strong>
 <br>
 
