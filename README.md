@@ -11,7 +11,6 @@
 <p>Dataset from kaggle : https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe/download</p>
 <p>◼ This dataset contains 515,738 hotel’s.</p>
 <p>◼ The dataset contain countries of Europe such as United Kingdom, Netherland, Spain, Austria, Italy.</p>
-<br>
 <strong>Features of Dataset</strong>
 <p>Hotel_Name, Hotel_Address, Average_Score, Countries, Tags</p>
 <br>
@@ -27,11 +26,11 @@
 <strong>PROPOSED SYSTEM</strong>
 <p>◼ Creating a system to recommend a hotel based on client’s location and type of trip</p>
 <p>◼ It recommends the best rated hotels based on the following criteria</p>
-<p> 1) Purpose of Visit</p>
-<p>2) Countries</p>
+<p>-->1) Purpose of Visit</p>
+<p>-->2) Countries</p>
 <br>
 
-System Outputs
+<strong>System Outputs</strong>
 <table><tr>
 <td> 
   <p align="center" style="padding: 10px">
