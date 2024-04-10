@@ -34,11 +34,11 @@
 <table><tr>
 <td> 
   <p align="center" style="padding: 10px">
-    <img alt="Forwarding" src="/images/Output1.jpg" width="800">
+    <img alt="Forwarding" src="/images/Output1.jpg" width="900">
     <br>
   </p> 
   <p align="center" style="padding: 10px">
-    <img alt="Forwarding" src="/images/Output2.jpg" width="750">
+    <img alt="Forwarding" src="/images/Output2.jpg" width="850">
     <br>
   </p>
 </td>
