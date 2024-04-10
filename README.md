@@ -5,7 +5,7 @@ https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe/download
 <table><tr>
 <td> 
   <p align="center" style="padding: 10px">
-    <img alt="Forwarding" src="/images/ContentVsCollaborative.jpg" width="540">
+    <img alt="Forwarding" src="/images/ContentVsCollaborative.jpg" width="900">
     <br>
   </p> 
 </td>
