@@ -1,17 +1,16 @@
-"# Hotel-Recommendation-System" 
+<h1 text-align="center">Hotel Recommendation System</h1> 
 
-I have used the dataset from kaggle
-https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe/download
 <br>
 
 <strong>Problem Statement</strong>
-<p>▪ A hotel recommendation system aims to predict which hotel a user is most likely to choose from among all hotels.</p>
-<p>▪ Recommendation System is an information filtering technique, which provide users with information, which he/she may be interested in.</p>
+<p>◼ A hotel recommendation system aims to predict which hotel a user is most likely to choose from among all hotels.</p>
+<p>◼ Recommendation System is an information filtering technique, which provide users with information, which he/she may be interested in.</p>
 <br>
 
 <strong>DATASET</strong>
-<p>▪ This dataset contains 515,738 hotel’s.</p>
-<p>▪ The dataset contain countries of Europe such as United Kingdom, Netherland, Spain, Austria, Italy.</p>
+<p>Dataset from kaggle : https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe/download</p>
+<p>◼ This dataset contains 515,738 hotel’s.</p>
+<p>◼ The dataset contain countries of Europe such as United Kingdom, Netherland, Spain, Austria, Italy.</p>
 <br>
 <strong>Features of Dataset</strong>
 <p>Hotel_Name, Hotel_Address, Average_Score, Countries, Tags</p>
