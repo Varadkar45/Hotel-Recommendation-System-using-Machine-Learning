@@ -14,8 +14,9 @@
 <strong>Features of Dataset</strong>
 <p>Hotel_Name, Hotel_Address, Average_Score, Countries, Tags</p>
 <br>
+
 <strong>Technique Used</strong>
-<strong>Applied Cosine Similarity to identify similar document in text analytics</strong>
+<p>Applied Cosine Similarity to identify similar document in text analytics</p>
 <br>
 
 <strong>EXISTING SYSTEM</strong>
