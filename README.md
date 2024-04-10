@@ -30,7 +30,7 @@
 <p>-->2) Countries</p>
 <br>
 
-<strong>System Outputs</strong>
+<strong>SYSTEM OUTPUTS</strong>
 <p>Country: Netherlands, Purpose of Trip: Leisure</p>
 <table><tr>
 <td> 
