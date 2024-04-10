@@ -33,12 +33,12 @@
 <strong>System Outputs</strong>
 <table><tr>
 <td> 
-  <p align="center" style="padding: 10px">
-    <img alt="Forwarding" src="/images/Output1.jpg" width="900">
+  <p align="left" style="padding: 10px">
+    <img alt="Forwarding" src="/images/Output1.jpg" width="400">
     <br>
   </p> 
-  <p align="center" style="padding: 10px">
-    <img alt="Forwarding" src="/images/Output2.jpg" width="900">
+  <p align="right" style="padding: 10px">
+    <img alt="Forwarding" src="/images/Output2.jpg" width="400">
     <br>
   </p>
 </td>
