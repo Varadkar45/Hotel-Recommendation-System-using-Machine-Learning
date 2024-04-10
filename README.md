@@ -37,13 +37,9 @@
     <img alt="Forwarding" src="/images/Output1.jpg" width="900">
     <br>
   </p> 
-</td>
-</tr></table>
-<table><tr>
-<td> 
   <p align="center" style="padding: 10px">
     <img alt="Forwarding" src="/images/Output2.jpg" width="900">
     <br>
-  </p> 
+  </p>
 </td>
 </tr></table>
